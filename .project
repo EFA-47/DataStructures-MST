@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Comp202HW4.1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Edge.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/comp202-assignment-4_1-EFA-47-main/Edge.java</locationURI>
+		</link>
+		<link>
+			<name>src/Graph.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/comp202-assignment-4_1-EFA-47-main/Graph.java</locationURI>
+		</link>
+		<link>
+			<name>src/HW4.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/comp202-assignment-4_1-EFA-47-main/HW4.java</locationURI>
+		</link>
+		<link>
+			<name>src/HW4Part1Test.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/comp202-assignment-4_1-EFA-47-main/HW4Part1Test.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
